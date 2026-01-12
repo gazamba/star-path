@@ -1,17 +1,6 @@
 # ⭐ StarPath - Video to Playwright Test Generator
 
-**Live App:** [https://star-path-lovat.vercel.app/](https://star-path-lovat.vercel.app/)
-
 Transform video recordings into comprehensive Playwright test prompts using Claude Vision API. Record a user flow, upload the video, and get detailed test scenarios ready for your AI coding assistant.
-
-## Quick Start (Use it Now)
-
-If you just want to generate a prompt for your video recording, you don't need to install anything. Just visit our deployed app:
-👉 **[star-path-lovat.vercel.app](https://star-path-lovat.vercel.app/)**
-
-1. Upload your **video flow** (MP4, MOV, or WebM).
-2. Click **Generate Prompt**.
-3. Copy the result into your favorite AI tool (Cursor, Claude, etc.).
 
 ---
 
